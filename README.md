@@ -1,1 +1,2 @@
-# Flexbox-layout
+# Flexbox
+Creación de layout utilizando flexbox
